@@ -8,7 +8,7 @@ CSS
 
 How to View the Project:
 
-Open 1.html in your browser.
+Download the 1.html file from this link https://github.com/himanigaire/Project_1.git and open in your browser.
 
 How It Works:
 
